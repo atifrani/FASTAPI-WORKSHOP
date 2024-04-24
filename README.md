@@ -1,4 +1,4 @@
-# Books Fast-API
+# FastAPI  WORKSHOP
 
 This is REST API built with Python and FastAPI, integrating with POSTGRESQL for CRUD operations (Create, Read, Update, Delete) on books. FastAPI is a powerful web framework for building APIs, while POSTGRESQL is a SQL database that provides flexibility and scalability.
 
@@ -11,7 +11,11 @@ This is REST API built with Python and FastAPI, integrating with POSTGRESQL for 
 | POST        | /books                | Add a new book       |
 | PUT         | /books/{book_id}      | Update a book        |
 | DELETE      | /books/{book_id}      | Delete a book        |
-
+| GET         | /user                | Get all users        |
+| GET         | /users/{book_id}      | Get a specific user  |
+| POST        | /users                | Add a new book       |
+| PUT         | /users/{book_id}      | Update a user        |
+| DELETE      | /users/{book_id}      | Delete a user        |
 
 ## Installation
 
