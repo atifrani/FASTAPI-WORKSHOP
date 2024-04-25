@@ -9,12 +9,12 @@ import schemas, models
 route = APIRouter()
 
 
-# Add new book
+# Add new user
 
-# Retrieve a list of all books:
+# Retrieve a list of all users:
 
-# Retrieve details for a specific book:
+# Retrieve details for a specific user:
 
-# Update an existing book:
+# Update an existing user:
 
-# delete an existing book:
+# delete an existing user:
